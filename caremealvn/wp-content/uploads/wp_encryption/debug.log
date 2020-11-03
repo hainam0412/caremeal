@@ -1,0 +1,26 @@
+<b>5.1.6  SINGLE DOMAIN SSL 1 - http://caremeal.vn</b>
+[10-09-2020 02:35:07] :
+No account found, attempting to create account.
+
+[10-09-2020 02:35:10] :
+LEClient finished constructing
+
+[10-09-2020 02:35:10] :
+No order found for 'caremeal.vn'. Creating new order.
+
+[10-09-2020 02:35:14] :
+Created order for 'caremeal.vn'.
+
+Creating HTTP challenge file http://caremeal.vn/.well-known/acme-challenge/Jfvr0LlvUKZw8RrxMQ62CAhQZIWkLSOyre68owRywl4
+[10-09-2020 02:35:15] :
+HTTP challenge for 'caremeal.vn' valid.
+
+Finalizing the order
+[10-09-2020 02:35:52] :
+Order for 'caremeal.vn' finalized.
+
+Getting SSL certificates
+[10-09-2020 02:35:53] :
+Certificate for 'caremeal.vn' saved
+
+<h2>SSL Certificate generated successfully!</h2>

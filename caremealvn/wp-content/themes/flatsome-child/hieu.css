@@ -1,0 +1,275 @@
+/* color orange */
+.bg-color-orange{
+	background-color:#FFAB00;
+}
+/* divider modify */
+/* .widget .is-divider  {
+    background: #ffab00;
+    height: 1px;
+    width: 48px;
+    bottom: 0;
+    left: 0;
+    display: block;
+    z-index: 1;
+}
+.box-blog-post .is-divider{
+	display:none;
+} */
+/* end divider modify */
+
+/* section background fixed */
+.hieu-section-bg-fixed .section-bg.bg-loaded {
+	background-attachment: fixed;
+}
+/* border modify */
+.hieu-border-bottom-dashed{
+	border-bottom:1px dashed #ccc;
+}
+.hieu-border-bottom-50 .image-cover{
+	border-radius:0 0 50% 50%;
+}
+/* end border modify */
+
+/* contact page */
+.hieu-contact .section-title-main,.hieu-contact .section-title-normal{
+	border:none;
+}
+.blog .row-box-shadow-1 .col-inner, 
+.blog .row-box-shadow-1-hover .col-inner:hover, 
+.blog .box-shadow-1, 
+.blog .box-shadow-1-hover:hover {
+    border-radius: 10px;
+}
+.blog .image-cover {
+    border-radius: 10px 10px 0 0;
+}
+
+.blog .has-shadow .box:not(.box-overlay):not(.box-shade) {
+  background-color: #fff;
+	border-radius: 10px;
+}
+.wpcf7-form-control.wpcf7-submit,
+.um input[type=submit].um-button{
+	border-radius:100px;
+	background:#08B004;
+}
+.hieu-meal-plans-accordition a.accordion-title span:before{
+	content:"\f111";
+	margin-right:1rem;
+	color:#FFAB00;
+	font-family:"Font Awesome 5 Free";
+	font-weight:900;
+}
+.hieu-meal-plans-accordition a.accordion-title:hover span:before{
+	color:white;
+}
+/* end contact page */
+
+/* meal plans page */
+.hieu-meal-plans-accordition .accordion-item {
+	margin-bottom:10px;
+}
+.hieu-meal-plans-accordition .accordion-item a{
+	background-color: #f5f5f5;
+    border: 0px none #ffffff;
+	font-weight:bold;
+}
+.hieu-meal-plans-accordition .accordion-item a:hover .toggle{
+	 color: white;
+}
+.hieu-meal-plans-accordition .accordion-item a:hover{
+	  background-color: #FFAB00;
+	  color: white;
+}
+.hieu-meal-plans-accordition .accordion-title.active {
+    border-color: #FFAB00;
+    color: white;
+    font-weight: bold;
+    background-color: #FFAB00;
+}
+.hieu-meal-plans-accordition .accordion-title{
+	display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 0;
+}
+.hieu-meal-plans-accordition.accordion .toggle {
+	position:relative;
+}
+/* .hieu-meal-plans-accordition .accordion-title span:before{
+	content:'\f111  ';
+	color:'#FFAB00';
+	font-family: 'FontAwesome';
+} */
+
+.page-id-8 .col-12{
+	max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+.page-id-8 .mb{
+	margin-bottom:30px !important;
+}
+@media screen and (min-width: 850px){
+.page-id-8 .large-4 {
+    max-width: 33.33333% !important;
+    flex-basis: 33.33333% !important;	
+}
+
+}
+@media screen and (min-width: 550px){
+.page-id-8 .medium-4 {
+    max-width: 33.33333% !important;
+    flex-basis: 33.33333% !important;
+}
+}
+
+/* end meal plans page */
+
+/* contact page */
+.page-id-9 .col-12{
+	max-width: 100% !important;
+    flex-basis: 100% !important;
+}
+
+@media screen and (min-width: 850px){
+.page-id-9 .large-4 {
+    max-width: 33.33333% !important;
+    flex-basis: 33.33333% !important;
+}
+	.page-id-9 .large-5 {
+	max-width: 41.66667% !important;
+    flex-basis: 41.66667% !important;
+}
+@media screen and (min-width: 550px){
+.page-id-9 .medium-4 {
+    max-width: 33.33333% !important;
+    flex-basis: 33.33333% !important;
+}
+}
+
+/* end contact page */
+/* form email */
+.hieu-form-email{
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.hieu-form-email input{
+	border-radius:100px !important;
+}
+.hieu-form-email .your-email{
+	width:55%;
+}
+.hieu-form-email .wpcf7-submit{
+	background-color:#FFAB00;
+	color:white;
+	width:40%;
+}
+	.hieu-company-infomation i[class^="icon-"]{
+		color:#08b004;
+	}
+@media (max-width: 1024px){
+.hieu-form-email .your-email{
+	width:100%;
+}
+.hieu-form-email .wpcf7-submit{
+	background-color:#FFAB00;
+	color:white;
+	width:100%;
+	margin:0;
+}
+}
+/* end form email */
+	
+/* blog page */
+	.blog-wrapper.blog-archive {
+		max-width: 1122px;
+    margin: 0 auto !important;
+	}
+	.widget .widget-title::before{
+		display:none !important;
+	}
+	.blog .is-divider{
+		height:2px !important;
+		
+	}
+	.blog .large-9 .is-divider{
+		display:none;
+	}
+	.blog .post-sidebar .is-divider{
+		    background-color:#ffab00;
+			max-width: 4rem;
+	}
+	.blog .secondary{
+		background-color:#ffab00;
+	}
+	.blog .search-field{
+  border-top: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-right: none;
+	 border-radius: 100px 0 0 100px;
+}
+.blog .ux-search-submit.submit-button{
+	  border-top: 1px solid #ccc;
+	border-left: none;
+	border-bottom: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	 border-radius: 0 100px 100px 0;
+}
+.blog .icon-search{
+	color:black;
+}
+.blog .secondary {
+    background-color: transparent;
+}
+.blog .ux-search-submit.button:hover{
+	    box-shadow: inset 0 0 0 100px rgba(255, 171, 0,0);
+}
+.blog input[type='search']{
+	    box-shadow: inset 0 1px 2px rgba(0,0,0,0);
+}
+	.blog .button.loading:after {
+    display:none;
+}
+/* end blog page */
+/* about us */
+	.page-id-63 .secondary{
+		background-color:#E59905 !important;
+		border:none;
+		font-weight:bold;
+	}
+/* end about */
+
+/* 	header contact */
+	.header-contact i[class^="icon-"]{
+		color:#FFAB00;
+	}
+/*end header contact */
+	
+/* contact page */
+	.person-title{
+		font-family: Merriweather;
+		opacity:1;
+		font-style: italic;
+	}
+	.person-title.op-7{
+		opacity:1;
+	}
+	.person-title.thin-font{
+		font-weight:bold !important;
+	}
+
+/* end contact page */
+	
+/* single post page */
+	.single.single-post .entry-category {
+display:none;
+}
+.single.single-post .has-shadow,
+.single.single-post .box-shadow-1, 
+.single.single-post .box-shadow-3-hover{
+	  box-shadow: 0 1px 3px -2px rgba(0,0,0,0), 0 1px 2px rgba(0,0,0,0);
+}
+/* single post page */

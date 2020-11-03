@@ -1,0 +1,1 @@
+[23-Sep-2020 07:59:46 UTC] WordPress database error Unknown column 'bs_b' in 'field list' for query SELECT bs_ten, bs_e, bs_b, bs_l, bs_g, bs_fe, bs_zn, bs_xo, bs_ca, bs_na, bs_cho FROM wp_bua_sang WHERE bs_ten = "bánh cốm"

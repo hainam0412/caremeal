@@ -1,0 +1,223 @@
+[14-Sep-2020 07:02:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:46 UTC] PHP Warning:  require_once(ABSPATH/wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:46 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:46 UTC] PHP Warning:  require_once(ABSPATH/wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:46 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:47 UTC] PHP Warning:  require_once(ABSPATH/wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:02:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:06:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:06:11 UTC] PHP Warning:  require_once(ABSPATH/wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:06:11 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:06:50 UTC] PHP Warning:  require_once(/../../../wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:06:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/../../../wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:07:24 UTC] PHP Warning:  require_once(../../../wp-config.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[14-Sep-2020 07:07:24 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../wp-config.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 3
+[15-Sep-2020 08:58:35 UTC] PHP Notice:  Undefined index: fileToUpload in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 9
+[15-Sep-2020 08:58:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 08:58:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 08:59:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 08:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 09:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 09:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 09:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_bits() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 09:02:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 1
+[15-Sep-2020 09:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 1
+[15-Sep-2020 09:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 1
+[15-Sep-2020 09:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 1
+[15-Sep-2020 09:03:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_stylesheet_directory_uri() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 10
+[15-Sep-2020 09:04:32 UTC] PHP Warning:  require(/home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/../../../wp-load.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:04:32 UTC] PHP Fatal error:  require(): Failed opening required '/home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/../../../wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:05:38 UTC] PHP Warning:  require(../../../wp-load.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:05:38 UTC] PHP Fatal error:  require(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:05:39 UTC] PHP Warning:  require(../../../wp-load.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:05:39 UTC] PHP Fatal error:  require(): Failed opening required '../../../wp-load.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 22
+[15-Sep-2020 09:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 31
+[15-Sep-2020 09:09:31 UTC] PHP Warning:  require_once(../../../../../include/filters.php): failed to open stream: No such file or directory in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 23
+[15-Sep-2020 09:09:31 UTC] PHP Fatal error:  require_once(): Failed opening required '../../../../../include/filters.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php on line 23
+[15-Sep-2020 09:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function finfo_open() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/filters.php:3
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/upanh.php(31): mime_content_type(NULL)
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/filters.php on line 3
+[16-Sep-2020 02:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 2
+[16-Sep-2020 02:55:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:55:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_post_thumbnail() in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php on line 3
+[16-Sep-2020 02:57:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post() in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php:141
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php(3): get_the_post_thumbnail(293)
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php on line 141
+[16-Sep-2020 02:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post() in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php:141
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php(3): get_the_post_thumbnail(293)
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php on line 141
+[16-Sep-2020 02:58:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post() in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php:141
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php(3): get_the_post_thumbnail(293)
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php on line 141
+[16-Sep-2020 02:59:27 UTC] PHP Warning:  Use of undefined constant OBJECT - assumed 'OBJECT' (this will throw an Error in a future version of PHP) in /home/cp732342/public_html/caremeal.vn/wp-includes/post.php on line 763
+[16-Sep-2020 02:59:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Post' not found in /home/cp732342/public_html/caremeal.vn/wp-includes/post.php:780
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-includes/post-thumbnail-template.php(141): get_post(293)
+#1 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/test.php(4): get_the_post_thumbnail(293)
+#2 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-includes/post.php on line 780
+[16-Sep-2020 10:25:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `wp_bua_sang` ON `bs_ten` LIKE ?' at line 1 in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[16-Sep-2020 10:29:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `wp_bua_sang` ON `bs_ten` = ?' at line 1 in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[16-Sep-2020 10:29:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `wp_bua_sang` ON `bs_ten` = ?' at line 1 in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[16-Sep-2020 10:29:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'INNER JOIN `wp_bua_sang` ON `bs_ten` = ?' at line 1 in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[17-Sep-2020 02:17:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM `wp_bua_sang` WHERE `bs_ten` LIKE ?' at line 1' in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('SELECT * FROM `...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[17-Sep-2020 03:00:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') ? UNION (SELECT * FROM `wp_bua_sang` WHERE `bs_ten` LIKE ?)' at line 1' in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('(SELECT * FROM ...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[17-Sep-2020 03:38:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UNION (SELECT bs_f1, bs_f2, bs_f3, bs_f4, bs_f5, id, bs_ten, bs_e, bs_p, bs_l FR' at line 1' in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php:22
+Stack trace:
+#0 /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php(22): PDO->prepare('((SELECT id, nl...')
+#1 {main}
+  thrown in /home/cp732342/public_html/caremeal.vn/wp-content/plugins/nguyenlieu/inc/khoi-de-nho/tra-cuu.php on line 22
+[21-Sep-2020 11:11:26 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:11:26 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:11:31 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:11:31 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:11:58 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:11:58 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:04 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:04 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:10 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:10 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:11 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:11 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:18 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:18 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:21 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:21 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:24 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:24 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:28 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:28 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:29 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:29 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:30 UTC] PHP Notice:  wp_register_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
+[21-Sep-2020 11:12:30 UTC] PHP Notice:  wp_enqueue_style was called <strong>incorrectly</strong>. Scripts and styles should not be registered or enqueued until the <code>wp_enqueue_scripts</code>, <code>admin_enqueue_scripts</code>, or <code>login_enqueue_scripts</code> hooks. This notice was triggered by the <code>Font_Awesome</code> handle. Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 3.3.0.) in /home2/cp732342/public_html/caremeal.vn/wp-includes/functions.php on line 5225
